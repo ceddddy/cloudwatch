@@ -1,6 +1,6 @@
 # AWS CLOUD WATCH 
 
-Welcome back to my "cloudwatch demonstration" .
+Welcome to my "cloudwatch demonstration" .
 
 What is AWS CloudWatch?
 
